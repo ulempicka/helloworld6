@@ -4,5 +4,7 @@ public class Zadanie2 {
         System.out.print("  ***  \n ***** \n*******\n");
         System.out.println("   *   ");
         System.out.println("   *   ");
+		System.out.println("   *   ");
+
     }
 }
